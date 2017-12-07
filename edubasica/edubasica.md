@@ -1,0 +1,3 @@
+# Edubasica
+* [Web del proyecto](http://www.practicasconarduino.com/edubasica/)
+* [Taller Marzo 2017](/taller_marzo_2017/) por *Manuel Hidalgo*

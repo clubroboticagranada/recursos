@@ -4,4 +4,9 @@ Se trata de un lugar dónde centralizar las aportaciones por temas de los compa�
   * [Creación de placas de circuitos impresos (PCB)](/pcb.md)
 * Programación
   * [Scratch](/scratch/scratch.md)
-  
+  * [Processing](/processing.md)
+* Robótica
+  * [Arduino](/arduino/arduino.md)
+    * Shields
+      * [Edubasica](/edubasica/edubasica.md)
+  * [Edison](/edison.md)
