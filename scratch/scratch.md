@@ -6,4 +6,6 @@
 * Taller de Scratch en el club
   * Soluciones ejercicios ([odt](/scratch/taller_scratch_soluciones.odt), [pdf](/scratch/taller_scratch_soluciones.pdf), [Programas](/scratch/programas_s14/)), por *Pedro Ruiz*
 * [Manual de Scratch en español](/scratch/informatica-creativa.pdf)    
-* [Taller Scratch, editable en formato exelearning](/scratch/programacion_scratch.elp) por *Pedro Ruiz*
+* Taller de programación con Scratch por *Pedro Ruiz*
+  * [formato web](https://pedroruizf.github.io/programacion-scratch/)
+  * [editable en formato exelearning](/scratch/programacion_scratch.elp)
