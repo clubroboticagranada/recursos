@@ -15,3 +15,4 @@ Se trata de un lugar dónde centralizar las aportaciones por temas de los compa�
   * [Microbit](/microbit/microbit.md)
 * Diseño e Impresión 3D
   * [Tutorial de laminador Cura](https://m.all3dp.com/1/cura-tutorial-software-slicer-cura-3d/?__twitter_impression=true)
+  * [Taller de diseño e impresión 3D en el makerspace "Las Nieves"](https://github.com/clubroboticagranada/recursos/tree/master/27-11-18-Materiales-Taller-3D)
