@@ -7,6 +7,8 @@ Placa británica (BBC) usada en el sistema educativo británico.
 ## Manuales y ejercicios
 * [Manual de programación microbit en español entorno gráfico](http://microes.org/descargas/manual-de-programacion-microbit.pdf)
 * [Recursos de Microbit pedroruizf](https://github.com/pedroruizf/microbit.git)
+* [Tutoriales de micro:bit con python](https://microbit-micropython.readthedocs.io/en/latest/index.html)
+* [Mu editor](https://codewith.mu/)
 ## Robots
 ### Maqueen
 * [Web de dfrobot](https://www.dfrobot.com/product-1783.html)
