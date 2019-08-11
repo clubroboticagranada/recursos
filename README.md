@@ -5,6 +5,7 @@ Se trata de un lugar dónde centralizar las aportaciones por temas de los compa�
 * Programación
   * [Scratch](/scratch/scratch.md)
   * [Processing](/processing/processing.md)
+  * [Python](/python/python.md)
 * Robótica y control
   * [Alhambra](/alhambra/alhambra.md)
   * [Arduino](/arduino/arduino.md)
