@@ -20,5 +20,4 @@ Se trata de un lugar dónde centralizar las aportaciones por temas de los compa�
   * [Tutorial de laminador Cura](https://m.all3dp.com/1/cura-tutorial-software-slicer-cura-3d/?__twitter_impression=true)
   * [Freecad](https://www.freecadweb.org/)
     * [Taller de diseño e impresión 3D en el makerspace "Las Nieves"](/talleres/27-11-18-Materiales-Taller-3D)
-  * [Tinkercad](https://www.tinkercad.com)
-    * [Tutorial de Javier Fernández Panadero](https://youtu.be/Tg0xClPGMP8)
+  * [Tinkercad 3D](/tinkercad3d/tinkercad3d.md)
